@@ -1,4 +1,3 @@
-# import pyfiglet module
 import pyfiglet
 import scapy.all as scapy
 import re
