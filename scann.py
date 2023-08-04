@@ -1,3 +1,4 @@
+# don't forget to run as root
 import pyfiglet
 import scapy.all as scapy
 import re
